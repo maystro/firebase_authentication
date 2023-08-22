@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "211656115318",
+    "project_id": "social-auth-maystro",
+    "storage_bucket": "social-auth-maystro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211656115318:android:aa035b6a952000cb04cb57",
+        "android_client_info": {
+          "package_name": "com.maystro.soauth.social_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211656115318-ovjf3u6jnl1sp6bvpncg1d9ltoskdpjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6vlvc8Rpwzgd5O7vhAQtn6opFckFLvoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211656115318-ovjf3u6jnl1sp6bvpncg1d9ltoskdpjn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "211656115318-bi0rnp2grg2di4qca1dfs86a50f2r6o7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.maystro.soauth.socialAuthentication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
